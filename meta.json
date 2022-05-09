@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/sls1005/NimCPPClass",
   "refs": [
-    "fatal: unable to access 'https://github.com/sls1005/NimCPPClass/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/sls1005/NimCPPClass/': SSL connection timeout",
     ""
   ],
   "heads": []
