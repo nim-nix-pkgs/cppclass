@@ -42,11 +42,11 @@
     "src-cppclass-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1651285012,
-        "narHash": "sha256-vqxuYQErqkQINKZvJtbLR8JCKwl9xSY76ztDNu7k9KA=",
+        "lastModified": 1652344885,
+        "narHash": "sha256-4+/lBeJM2iF41fUKgxmF6Uhiln+I73SKF9FU3LHQ7TQ=",
         "owner": "sls1005",
         "repo": "NimCPPClass",
-        "rev": "24635cce007c3e85a93c4aa4b86043512311f9a3",
+        "rev": "8c9c40d12919341217f42e64e1a17b4b14dc37bc",
         "type": "github"
       },
       "original": {
